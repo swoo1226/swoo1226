@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swoo1226&show_icons=true)](https://github.com/swoo1226/github-readme-stats)
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
@@ -32,4 +32,3 @@
 />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoo1226&layout=compact)](https://github.com/swoo1226/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swoo1226&show_icons=true)](https://github.com/swoo1226/github-readme-stats)

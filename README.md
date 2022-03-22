@@ -30,9 +30,5 @@
 <img
   src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"
 />
-<img
-  src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"
-/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoo1226&layout=compact)](https://github.com/swoo1226/github-readme-stats)

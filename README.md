@@ -1,16 +1,38 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90)
 
-<!--
-**swoo1226/swoo1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+  src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"
+/>
